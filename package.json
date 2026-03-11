@@ -1,6 +1,6 @@
 {
   "name": "tictactoe-advanced",
-  "homepage": "https://praweshyadav.github.io/tic-tac-toe-ai-game",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
