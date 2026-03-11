@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tic-tac-toe-ai-game/static/css/main.e6c13ad2.css",
+    "main.js": "/tic-tac-toe-ai-game/static/js/main.7d587317.js",
+    "static/js/453.8aa7c86d.chunk.js": "/tic-tac-toe-ai-game/static/js/453.8aa7c86d.chunk.js",
+    "index.html": "/tic-tac-toe-ai-game/index.html",
+    "main.e6c13ad2.css.map": "/tic-tac-toe-ai-game/static/css/main.e6c13ad2.css.map",
+    "main.7d587317.js.map": "/tic-tac-toe-ai-game/static/js/main.7d587317.js.map",
+    "453.8aa7c86d.chunk.js.map": "/tic-tac-toe-ai-game/static/js/453.8aa7c86d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.7d587317.js"
+  ]
+}
