@@ -1,7 +1,7 @@
 # tic-tac-toe-ai-game
 [▶ Play Online](https://praweshyadav.github.io/tic-tac-toe-ai-game)
 
-## 🌐 Game link
+## 👉 Game link
 
 https://praweshyadav.github.io/tic-tac-toe-ai-game
 
@@ -21,3 +21,11 @@ Tic Tac Toe game with AI opponent, 3x3 and 5x5 boards, move history, heatmap sta
 - 🏆 Achievements and statistics
 - 🎨 Modern UI with smooth animations
 
+
+## 🛠 Tech Stack
+
+- React
+- JavaScript
+- HTML
+- CSS
+- GitHub Pages
